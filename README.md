@@ -1,2 +1,1 @@
-# Depression eksploratory data analysis project
-
+# Depression Exploratory Data Analysis Project
